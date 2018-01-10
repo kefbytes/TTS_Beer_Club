@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Beer_Club
+//  Beer Club
 //
-//  Created by Franks, Kent on 11/2/16.
-//  Copyright © 2016 Franks, Kent. All rights reserved.
+//  Created by Franks, Kent on 7/10/17.
+//  Copyright © 2017 KefBytes. All rights reserved.
 //
 
 import UIKit
